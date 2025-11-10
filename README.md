@@ -1,18 +1,18 @@
-# ⚖️ Dataset 50 Putusan Pidsus Narkotika & Psikotropika
+# ⚖️ Dataset 50 Putusan Pidsus Narkotika & Psikotropika pn jaksel
 
-Kumpulan data ini berisi **50 dokumen putusan** Pengadilan Negeri terkait tindak pidana khusus (pidsus) narkotika dan psikotropika di Indonesia.
+Kumpulan data ini berisi **50 dokumen putusan** Pengadilan Negeri jakarta selatan terkait tindak pidana khusus (pidsus) narkotika dan psikotropika dipengadilan negri jaksel.
 
 ## 📝 Deskripsi
 
-Dataset ini dikumpulkan secara manual untuk tujuan akademis, khususnya sebagai bahan studi kasus untuk mata kuliah [Sebutkan nama mata kuliah, misal: Sistem Temu Kembali Informasi / Information Retrieval]. Fokus utama dari penggunaan dataset ini adalah untuk menerapkan teknik *Natural Language Processing (NLP)* dan *Information Retrieval (IR)* pada teks hukum berbahasa Indonesia.
+Dataset ini dikumpulkan secara manual untuk tujuan akademis, khususnya sebagai bahan studi kasus untuk mata kuliah temu kembali informasi. Fokus utama dari penggunaan dataset ini adalah untuk menerapkan teknik *Natural Language Processing (NLP)* dan *Information Retrieval (IR)* pada teks hukum berbahasa Indonesia.
 
 Seluruh dokumen dalam dataset ini adalah data publik yang diperoleh dari sumber resmi.
 
 ## 📦 Isi Dataset
 
-* **Folder:** `data_putusan/`
+* **Folder:** `narkotika/`
 * **Jumlah Dokumen:** 50 file
-* **Format File:** [Sebutkan formatnya, misal: .pdf atau .docx]
+* **Format File:** pdf
 * **Bahasa:** Indonesia
 
 ## 📂 Sumber Data
@@ -22,7 +22,7 @@ Dokumen-dokumen ini diunduh dari **Direktori Putusan Mahkamah Agung Republik Ind
 
 ## ⚙️ Proyek Terkait (Penggunaan Dataset)
 
-Dataset ini digunakan dalam sebuah proyek [Google Colab/Python] untuk membangun mesin pencari sederhana. Alur kerja utama yang diterapkan pada 50 dokumen ini meliputi:
+Dataset ini digunakan dalam sebuah proyek untuk membangun mesin pencari sederhana. Alur kerja utama yang diterapkan pada 50 dokumen ini meliputi:
 
 1.  **Ekstraksi Teks:** Membaca dan mengekstrak seluruh teks dari 50 file dokumen.
 2.  **Preprocessing Teks:**
